@@ -16,7 +16,11 @@
 
 ### Mentor & KOL
 - [Christoph Michel](https://twitter.com/cmichelio)
+- [Jackson @Robinhood Web3](https://jacksonkelley.gumroad.com/l/how-to-become-a-smart-contract-auditor)
 
 ### Learning Lesson
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Capture the Ether](https://capturetheether.com/)
+- [Stanford Cryptocurrencies Course](https://cs251.stanford.edu/)
+
+### Cheat Sheet
